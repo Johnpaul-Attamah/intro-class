@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 2rem;
+}
+
+h1, h2, h3,h4 { text-transform: uppercase;}
+
+p {
+    color: blue;
+}
